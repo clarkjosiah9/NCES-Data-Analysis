@@ -1,5 +1,4 @@
-# LIS4930-Final-Project
-Final Project for LIS4930
+# Education Research Project
 
 Research Question: “Where are the National Center for Education NAEP’s Mathematics Scale Scores currently trending?”
 
