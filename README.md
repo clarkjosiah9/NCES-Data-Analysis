@@ -15,5 +15,6 @@ Objectives:
   4. Make Observations concerning the positive/negative trend of the data as well as the strength of the correlation to its line/quadratic of best fit, and create hypothesis about the relationship between COVID-19, socioeconomic status, and overall mathematical performance.
 
 Blog Post for Observations: https://josiahclarkdotblog.wordpress.com/final-project/
+
 Similar Work: NCES posts regular data visualizations of certain aspects of their data. 
  
